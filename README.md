@@ -243,3 +243,23 @@ http://localhost:3000
 ## GitHub Repository
 
 https://github.com/kabish22/ATMGuard
+
+## Application Screenshots
+
+### Dashboard
+![ATMGuard Dashboard](screenshots/dashboard.png)
+
+### ATM Monitoring
+![ATM Monitoring](screenshots/atms.png)
+
+### Transaction Management
+![Transactions](screenshots/transactions.png)
+
+### Fault Management
+![Fault Management](screenshots/faults.png)
+
+### Automated Demo
+![Automated Demo](screenshots/automated-demo.png)
+
+### Recovery Logs
+![Recovery Logs](screenshots/recovery.png)
